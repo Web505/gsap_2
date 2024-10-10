@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+}
+
+.element {
+  background-color:rgb(23, 173, 108);
+  top: 70%;
+  left: 15%;
+  border-radius: 25px;
+}
